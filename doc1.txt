@@ -2,4 +2,3 @@ doc 1 text
 add on feature 5
 added on feature 4
 added on feature 4 part 2
-AGREGANDO TEXTO PARA PROBAR DIFF HEAD
